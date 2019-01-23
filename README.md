@@ -18,4 +18,6 @@ The goal of this project is to monitor ships in open sea. This will help maritim
     - It uses the "Single Shot MultiBox Detector" framework
 - "transfer learning mode" will be applied to help improve the model
 
+# Test
+
 # End Goal
