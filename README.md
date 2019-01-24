@@ -1,4 +1,6 @@
 # Airbus Ship Detection Challenge
+![alt text](https://raw.githubusercontent.com/varunrao/airbus-ship-detection/master/logo.png)
+
 The "Sea-Hawks" - Watch the open sea.
 The goal of this project is to monitor ships in open sea. This will help maritime industry to increase knowledge, anticipate threats, trigger alerts, and improve efficiency at sea.
 
